@@ -1,0 +1,13 @@
+.container{
+    border: solid 1px green;
+    padding: 20px 100px 0;
+    margin: auto;
+    width: 50%;
+    /* height: 500px; */
+    /* border-top-right-radius: 50px; */
+}
+
+.inner_container{
+    border: dotted red 2px;
+    
+}
